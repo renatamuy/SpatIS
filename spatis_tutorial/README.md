@@ -629,8 +629,8 @@ If you need more information or calculate *SpatIS* and *SpatICS*, please
 refer to
 
 Kerches-Rogeri, P.; Niebuhr, B. B.; Muylaert, R. L., Mello, M. A. R.
-Individual specialization in the space use of frugivorous bats. *In
-review.*
+Individual specialization in the space use of frugivorous bats. 2020. Journal
+of Animal Ecology, *accepted*. [URL](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13339)
 
 # Additional references
 
