@@ -49,5 +49,5 @@ In Portuguese:
 If you have questions or suggestions, do not hesitate to contact us (or open an issue [here](https://github.com/LEEClab/SpatIS/issues)):
 + Patricia Kerches-Rogeri <<parogeri@gmail.com>>  
 + Bernardo Brandão Niebuhr <<bernardo_brandaum@yahoo.com.br>>  
-+ Renara L. Muylaert <<renatamuy@gmail.com>>  
++ Renata L. Muylaert <<renatamuy@gmail.com>>  
 + Marco A. R. Mello <<marmello@usp.br>>
